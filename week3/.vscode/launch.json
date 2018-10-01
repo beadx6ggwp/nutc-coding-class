@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test1",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console":"externalTerminal",
+            "stopOnEntry": false,
+            "mainClass": "test1",
+            "args": ""
+        }
+    ]
+}
