@@ -5,7 +5,7 @@ public class test1 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Input number(1~15):");
         int n = scanner.nextInt();
-
+        
         System.out.print("    ");
         for (int i = 1; i <= n; i++)
             System.out.printf("%4d", i);
